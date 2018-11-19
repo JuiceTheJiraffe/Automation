@@ -13,4 +13,5 @@ def lambda_handler(event, context):
 
     except Exception, e:
         sys.exit();
-#This is a deleted comment
+
+#This is a new feature
